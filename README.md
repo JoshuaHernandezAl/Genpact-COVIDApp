@@ -1,8 +1,22 @@
-# React + Vite
+# COVID App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Visit application
 
-Currently, two official plugins are available:
+1. Go to `url`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Start application
+
+1. Clone the repository: `git clone https://github.com/JoshuaHernandezAl/Genpact-COVIDApp.git`
+2. Run: `yarn`
+3. Run: `yarn start`
+4. Go to `http://localhost:5173/`
+
+## Routes
+
+1. `/`: This route shows the most recent COVID data for the US.
+2. `/historic`: Show a part of the COVID data, this route shows:
+    - Last data available 
+    - First data available 
+    - Top 4 data ordered by deaths 
+3. `/state`: This route allows you to filter data by state, by default shows the same as `/historic`, but just for California
+4. `/date`: This route allows you to filter data by date for all states, by default shows the same as `/historic`
