@@ -2,7 +2,7 @@
 
 ## Visit application
 
-1. Go to `url`
+1. Go to `https://joshuahernandezal.github.io/`
 
 ## Start application
 
