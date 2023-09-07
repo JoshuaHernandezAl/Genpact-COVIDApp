@@ -2,7 +2,7 @@
 
 ## Visit application
 
-1. Go to `https://joshuahernandezal.github.io/`
+1. Go to https://joshuahernandezal.github.io/Genpact-COVIDApp
 
 ## Start application
 
