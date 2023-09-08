@@ -2,7 +2,7 @@
 
 ## Visit application
 
-1. Go to https://joshuahernandezal.github.io/Genpact-COVIDApp
+1. Go to https://joshuahernandezal.github.io/Genpact-COVIDApp or https://eloquent-kulfi-56ccd0.netlify.app/
 
 ## Start application
 
